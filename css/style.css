@@ -11,6 +11,29 @@
   text-align: center;
 }
 .column {
-  width: 300px;
+  width: 30.2%;
   float: left;
+}
+.outer-box {
+  margin: 20px;
+  border: 6px solid purple;
+  padding: 4px;
+  background-color: orange;
+  height: 150px;
+}
+.inner-box {
+  margin: 12px;
+  border: 2px solid green;
+  padding: 4px;
+  background-color: yellow;
+}
+.side-bar {
+  width: 70%;
+  float:right;
+  height:200px;
+  background-color: yellow;
+  font-style: italic;
+}
+.img {
+  float: center;
 }
